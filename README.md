@@ -32,9 +32,9 @@ https://www.youtube.com/watch?v=VlxSEEIwwNY&list=PL_181YA7nAlfR_0ro3l6Dh7ReB7AB7
 
 Intenta que la salida del programa por CLI sea lo más parecida posible a las imágenes que se proporcionan. Cada una de ellas se corresponde con una de las historias de usuario que se detallan en los epígrafes siguientes.
 
-!["Historias de usuario"](./doc/salida_CLI/CLI_01.png "sneaker info ASCII CLI")
+!["Historias de usuario"](./doc/CLI_01.png "sneaker info ASCII CLI")
 
-!["Historias de usuario"](./doc/salida_CLI/CLI_02.png "all bids and asks CLI")
+!["Historias de usuario"](./doc/CLI_02.png "all bids and asks CLI")
 
 
 ## Diagrama de clases UML / Arquitectura de la app.
